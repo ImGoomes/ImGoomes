@@ -4,7 +4,7 @@
 * Atualmente trabalhando como Tech lead na IONIC Health em projetos para área de medicina diagnóstica.
 * Experiências com tecnologias como: Angular, React, Vue, .NET, Node.js e outras.
 
-<div align="center">
+<br><div align="center">
   <a href="https://github.com/imgoomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgoomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgoomes&layout=compact&langs_count=7&theme=midnight-purple"/>
