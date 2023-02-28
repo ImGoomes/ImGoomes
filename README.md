@@ -1,8 +1,8 @@
-### Salveeeee, me chamo Gabriel Gomes 🤟
+### Hey there, my name is Gabriel Gomes 🤟
 
-* 💻 Trabalho com desenvolvimento de software há 6 anos, passando por diversas áreas de negócio.
-* 🩺 Atualmente trabalhando como Tech lead na IONIC Health em projetos para área de medicina diagnóstica.
-* ⌨ Experiências com tecnologias como: Angular, React, Vue, .NET, Node.js e outras.
+* 💻 I work with software development about 7 years, passing through different business areas.
+* 🩺 Currently working as a Tech lead at IONIC Health in projects for the diagnostic medicine area.
+* ⌨ Experience with technologies such as: Angular, React, Vue, .NET, Node.js, Flutter and others.
 
 <br><div align="center">
   <a href="https://github.com/imgoomes">
