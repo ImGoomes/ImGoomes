@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Software Engineer at @ionichealthusa<br>
-MSc in Software Engineering at @FEUP<br>
+Software Engineer at [IONIC Health](https://ionic.health)<br>
+MSc in Software Engineering at [FEUP](https://github.com/FEUP)
 
